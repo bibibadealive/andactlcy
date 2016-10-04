@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/bibibadea/DEV/AND/EXE/activity-lifecycle/app/build/intermediates/res/merged/debug/layout/activity_b.xml",
+        "source": "/Users/bibibadea/DEV/AND/EXE/activity-lifecycle/app/src/main/res/layout/activity_b.xml"
+    },
+    {
+        "merged": "/Users/bibibadea/DEV/AND/EXE/activity-lifecycle/app/build/intermediates/res/merged/debug/layout/activity_c.xml",
+        "source": "/Users/bibibadea/DEV/AND/EXE/activity-lifecycle/app/src/main/res/layout/activity_c.xml"
+    },
+    {
+        "merged": "/Users/bibibadea/DEV/AND/EXE/activity-lifecycle/app/build/intermediates/res/merged/debug/layout/activity_dialog.xml",
+        "source": "/Users/bibibadea/DEV/AND/EXE/activity-lifecycle/app/src/main/res/layout/activity_dialog.xml"
+    },
+    {
+        "merged": "/Users/bibibadea/DEV/AND/EXE/activity-lifecycle/app/build/intermediates/res/merged/debug/layout/activity_a.xml",
+        "source": "/Users/bibibadea/DEV/AND/EXE/activity-lifecycle/app/src/main/res/layout/activity_a.xml"
+    }
+]

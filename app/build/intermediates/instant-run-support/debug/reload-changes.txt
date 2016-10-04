@@ -1,0 +1,2 @@
+CHANGED,/Users/bibibadea/DEV/AND/EXE/activity-lifecycle/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/android/lifecycle/util/StatusTracker$override.class
+CHANGED,/Users/bibibadea/DEV/AND/EXE/activity-lifecycle/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
